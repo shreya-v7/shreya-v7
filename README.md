@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shreya Verma</h1>
 <h3 align="center">One more Techie Geek</h3>
 
+<img src="https://media1.giphy.com/media/ni0SiJPaLzQeQxAnUs/giphy.gif?cid=ecf05e47zh7p3t7oajjxcqnhaahezlllwrwzcnupvf3n3du6&rid=giphy.gif&ct=g" width="450" height="270" />
+
 
 📫 How to reach me **shreya.verma2000@gmail.com**
 <br>
