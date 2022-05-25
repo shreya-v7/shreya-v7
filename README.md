@@ -1,8 +1,16 @@
 <h1 align="center">Hi, I'm Shreya Verma</h1>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/72500761/170214239-8262453d-7abc-4e6b-b398-630d8d2dad2f.png" height="200" width="200"/></p>
+<h4 align="center">Your +1 Techno-Fren</h4>
+  
+ 
+<p align="center"><img src="https://user-images.githubusercontent.com/72500761/170214239-8262453d-7abc-4e6b-b398-630d8d2dad2f.png" height="200" width="200"/>
 
-
+  
+<p align="center">📫 How to reach me: shreya.verma2000@gmail.com
+<br>
+⚡ Fun fact [I still watch The Flash]
+  </p>
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-v7&" alt="shreya-v7" /></p>
 
@@ -14,12 +22,15 @@
 <a href="https://www.codechef.com/users/korgi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="korgi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shreya_sv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreya_sv" height="30" width="40" /></a>
 </p>
+
+<p><br></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreya-v7&show_icons=true&locale=en" alt="shreya-v7" /></p>
+
 <p><br><br></p>
+
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-v7&show_icons=true&locale=en&layout=compact" alt="shreya-v7" /></p>
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreya-v7&show_icons=true&locale=en" alt="shreya-v7" /></p>
-
-<p><br><br></p>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -27,8 +38,5 @@
 
 
 
-📫 How to reach me **shreya.verma2000@gmail.com**
-<br>
-⚡ Fun fact **I still watch The Flash**
 
 
