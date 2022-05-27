@@ -8,7 +8,7 @@
   
 <p align="center">📫 How to reach me: shreya.verma2000@gmail.com
 <br>
-⚡ Fun fact [I still watch The Flash]
+⚡ Fun fact: I still watch The Flash
   </p>
 </p>
 
