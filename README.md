@@ -2,8 +2,7 @@
 
 <h4 align="center">Your +1 Techno-Fren</h4>
   
- 
-<p align="center"><img src="https://user-images.githubusercontent.com/72500761/170214239-8262453d-7abc-4e6b-b398-630d8d2dad2f.png" height="200" width="200"/>
+ <p align="center"><img src="https://user-images.githubusercontent.com/72500761/170214239-8262453d-7abc-4e6b-b398-630d8d2dad2f.png" height="200" width="200"/>
 
   
 <p align="center">📫 How to reach me: shreya.verma2000@gmail.com
