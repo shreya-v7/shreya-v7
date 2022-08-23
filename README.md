@@ -28,7 +28,6 @@
 
 <p><br><br></p>
 
-
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreya-v7&show_icons=true&locale=en&layout=compact" alt="shreya-v7" /></p>
 
 
