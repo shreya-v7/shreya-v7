@@ -1,45 +1,50 @@
-<h1 align="center">Hi, I'm Shreya Verma</h1>
-
-<h4 align="center">Mi Techno-Amiga</h4>
-  
- <p align="center"><img src="https://user-images.githubusercontent.com/72500761/170214239-8262453d-7abc-4e6b-b398-630d8d2dad2f.png" height="200" width="200"/>
-  
-<p align="center">📫 How to reach me: shreya.verma2000@gmail.com
-<br>
-⚡ Fun fact: I still watch The Flash
-  </p>
-</p>
-
-
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular" width="40" height="40"/> </a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
+<div align="center">
+<h1>Shreya Verma</h1>
+ 
+**Software Engineer · ML Systems · Backend & Data Infrastructure**
+ 
+Grad @ CMU · prev. @ Proofpoint and Morgan Stanley
+ 
+<a href="https://shreyaverma.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+<a href="https://in.linkedin.com/in/shreya-verma-1sv"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shreya.verma2000@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/u/shreya_sv/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+ 
+</div>
+---
+ 
+### 👩‍💻 About
+ 
+I build backend and data systems that ML depends on, with a focus on how models run, fail, and get evaluated in production. My work spans distributed systems, lakehouse data platforms, and grounded AI agents.
+ 
+### 💼 Experience
+ 
+- **Proofpoint**, SWE Intern, Cloud & ML (2026)<br>
+  Built a lakehouse-native access-analytics system on Spark and Hudi covering 8M+ resources and 1M+ identities, cutting a 2.5s lookup to 651 ms with 27x fewer bytes scanned.
+- **Morgan Stanley**, Technology Associate → Software Engineer II (2023 – 2025)<br>
+  Built a distributed, factor-based stress-testing system across 3,500+ funds, and cut a daily exposure-risk job across 7,000+ accounts from over 4 hours to 30 minutes.
+- **Carnegie Mellon University**, Graduate Teaching Assistant<br>
+  Machine Learning in Production / AI Engineering (17-645).
+### 🚀 Selected Projects
+ 
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**Brilliant Banker**](https://github.com/shreya-v7/brilliant-banker) | AI banking assistant built with PNC Bank. Advises small-business owners and escalates large credit requests to a human banker. | <img src="https://skillicons.dev/icons?i=fastapi,react,postgres&perline=3" height="28" alt="FastAPI, React, PostgreSQL"/><br><sub>LangGraph · Claude API</sub> |
+| [**Quantastica / Fin.AI**](https://github.com/shreya-v7/Quantastica-Agentic-AI) | Google Agentic AI Day finalist. Multi-agent personal finance platform with retrieval-grounded answers. | <img src="https://skillicons.dev/icons?i=py,gcp&perline=2" height="28" alt="Python, GCP"/><br><sub>LangGraph · RAG</sub> |
+| **Learned Orchestration for Deep Research Agents** | CMU × Adobe capstone (in progress). Replacing a prompted LLM orchestrator with a small RL-trained policy. | <img src="https://skillicons.dev/icons?i=py,pytorch&perline=2" height="28" alt="Python, PyTorch"/><br><sub>Hugging Face · GPT Researcher</sub> |
+ 
+### 📄 Publications
+ 
+- [An Efficient Multifactor Authentication System](https://link.springer.com/chapter/10.1007/978-981-99-3734-9_10), Springer, 2023
+- [An Approach to Medical Diagnosis Using Smart Chatbot](https://link.springer.com/chapter/10.1007/978-981-19-3089-8_5), Springer, 2022
+### 🧰 Tech Stack
+ 
+| Area | Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://skillicons.dev/icons?i=py,java,go,rust,ts,js" alt="Languages"/><br><sub>Python · Java · Go · Rust · TypeScript · JavaScript · SQL</sub> |
+| **Backend & Web** | <img src="https://skillicons.dev/icons?i=fastapi,spring,django,nodejs,graphql,react,angular" alt="Backend and Web"/><br><sub>FastAPI · Spring Boot · Django · Node.js · gRPC · GraphQL · React · Angular</sub> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI and ML"/><br><sub>PyTorch · TensorFlow · scikit-learn · Hugging Face Transformers · LangGraph · MLflow</sub> |
+| **Data** | <img src="https://skillicons.dev/icons?i=kafka,postgres,redis" alt="Data"/><br><sub>Apache Kafka · PostgreSQL · Redis · Apache Spark · Apache Hudi · Apache Airflow · Amazon Athena</sub> |
+| **Cloud & Infra** | <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,linux" alt="Cloud and Infra"/><br><sub>AWS · GCP · Azure · Docker · Kubernetes · Terraform · Jenkins · Linux</sub> |
+| **Observability** | <img src="https://skillicons.dev/icons?i=grafana,prometheus" alt="Observability"/><br><sub>Grafana · Prometheus · OpenTelemetry</sub> |
+ 
